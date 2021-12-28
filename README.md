@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**kotisyamala/kotisyamala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**kotisyamala/kotisyamala** is a ✨ _special_ ✨
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on : Adobe Experience Manager (AEM), Adobe Campaign (AC),Java, J2EE 
+- 🌱 I’m currently learning : Rust,React, AWS.
+- 👯 I’m looking to collaborate on : AWS,React, Smart contracts, ETH Apps.
+- 🤔 I’m looking for help with : AWS,React, Smart contracts, ETH Apps.
+- 💬 Ask me about : AEM. AC. Java/J2EE
+- 📫 How to reach me: kotireddy299@gmial.com
+- 😄 Pronouns: Koti
+- ⚡ Fun fact: Love Astronomy, Coding.
+- 🏗️ My Portfolio site : https://kotisyamala.blogspot.com/
+- 🌐 Blog : https://learnergene.blogspot.com/
+
+Twitter: https://twitter.com/KotiSyamala
+LinkedIn: https://www.linkedin.com/in/koti-reddy/
