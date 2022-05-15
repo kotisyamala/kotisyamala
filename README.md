@@ -28,7 +28,9 @@
 ![](https://img.shields.io/badge/Code-JavScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-AdobeExperienceManager-informational?style=flat&logo=AdobeExperienceManager&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-AdobeCampaignClassic-informational?style=flat&logo=AdobeCampaignClassic&logoColor=white&color=2bbc8a)
 
 
 
