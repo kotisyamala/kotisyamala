@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**I'm Koti** ✨ _Lead Developer_ ✨
+**I'm Koti** ✨ _Lead Developer_ | Blogger ✨
 
-- 🔭 I’m currently working on : Adobe Experience Manager (AEM), Adobe Campaign (AC),Java, J2EE 
+- 🔭 I’m currently working on : Adobe Experience Manager (AEM), Adobe Campaign (AC),Java, J2EE and PHP
 - 🌱 I’m currently learning : Rust,React, AWS.
 - 👯 I’m looking to collaborate on : AWS,React, Smart contracts, ETH Apps.
 - 🤔 I’m looking for help with : AWS,React, Smart contracts, ETH Apps.
