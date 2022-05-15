@@ -1,4 +1,4 @@
-# [![Koti Header](https://github.com/kotisyamala/kotisyamala/blob/master/kotibanner.png)](https://binarycipher.blogspot.com/)
+# [![Koti Header](https://github.com/kotisyamala/kotisyamala/blob/master/images/kotibanner.png)](https://binarycipher.blogspot.com/)
 ### Hi there <img src="https://github.com/kotisyamala/kotisyamala/blob/master/images/hi.gif" width="30px"/>
 
 
