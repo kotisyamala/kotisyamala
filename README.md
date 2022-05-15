@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Koti
 - ⚡ Fun fact: Love Astronomy, Coding.
 - 🏗️ My Portfolio site : https://kotisyamala.blogspot.com/
-- 🌐 Blog : https://learnergene.blogspot.com/
+- 🌐 My Developer Blog : https://binarycipher.blogspot.com
+- 💙 My Personla Blog: https://betterlifesailor.blogspot.com/
 
 Twitter: https://twitter.com/KotiSyamala
-LinkedIn: https://www.linkedin.com/in/koti-reddy/
+LinkedIn: https://www.linkedin.com/in/kotisyamala
