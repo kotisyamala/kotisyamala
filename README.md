@@ -11,9 +11,9 @@
 - 📫 How to reach me: kotireddy299@gmial.com
 - 😄 Pronouns: Koti
 - ⚡ Fun fact: Love Astronomy, Coding.
-- 🏗️ My Portfolio site : <h4><a href="https://kotisyamala.blogspot.com">Koti's Portfolio website</a> </h4>
-- 🌐 My Developer Blog : <h4><a href="https://binarycipher.blogspot.com">Binary Cipher</a> </h4>
-- 💙 My Personal Blog: <h4><a href="https://betterlifesailor.blogspot.com">Better Life Sailor</a> </h4>
+- <h4>🏗️ My Portfolio site : <a href="https://kotisyamala.blogspot.com">Koti's Portfolio website</a> </h4>
+- <h4>🌐 My Developer Blog : <a href="https://binarycipher.blogspot.com">Binary Cipher</a> </h4>
+- <h4>💙 My Personal Blog: <a href="https://betterlifesailor.blogspot.com">Better Life Sailor</a> </h4>
 
-You can find me <h4><a href="https://twitter.com/KotiSyamala">Twitter @KotiSyamala</a> </h4>
-Catch me on <h4><a href="https://www.linkedin.com/in/kotisyamala">LinkedIn kotisyamala</a> </h4>
+<h4>You can find me <a href="https://twitter.com/KotiSyamala">Twitter @KotiSyamala</a> </h4>
+<h4>Catch me on <a href="https://www.linkedin.com/in/kotisyamala">LinkedIn kotisyamala</a> </h4>
