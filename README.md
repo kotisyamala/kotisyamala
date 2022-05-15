@@ -21,9 +21,9 @@
 
 
 🔧 Technologies & Tools
-![](https://img.shields.io/badge/<Code>-<Java>-informational?style=flat&logo=<Java>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Code>-<PHP>-informational?style=flat&logo=<PHP>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Code>-<React>-informational?style=flat&logo=<React>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
 
 
 ## &#x1f4c8; GitHub Stats
