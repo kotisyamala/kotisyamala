@@ -1,3 +1,4 @@
+# [![Koti Header](https://github.com/kotisyamala/kotisyamala/blob/master/Koti%20LinkedIn%20Banner.png)](https://binarycipher.blogspot.com/)
 ### Hi there 👋
 
 
