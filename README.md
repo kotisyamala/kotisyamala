@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**kotisyamala/kotisyamala** is a ✨ _special_ ✨
-
-Here are some ideas to get you started:
+**I'm Koti** ✨ _Lead Developer_ ✨
 
 - 🔭 I’m currently working on : Adobe Experience Manager (AEM), Adobe Campaign (AC),Java, J2EE 
 - 🌱 I’m currently learning : Rust,React, AWS.
