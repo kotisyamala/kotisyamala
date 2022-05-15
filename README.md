@@ -20,10 +20,16 @@
 <h4>Catch me on <a href="https://www.linkedin.com/in/kotisyamala" target="_blank">LinkedIn kotisyamala</a> </h4>
 
 
-🔧 Technologies & Tools
+##🔧 Technologies & Tools
+
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-AdobeExperienceManager-informational?style=flat&logo=AdobeExperienceManager&logoColor=white&color=2bbc8a)
+
 
 
 ## &#x1f4c8; GitHub Stats
