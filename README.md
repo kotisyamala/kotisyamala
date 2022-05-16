@@ -12,7 +12,7 @@
 - 📫 How to reach me: <a href="mailto:kotireddy299@gmial.com">kotireddy299@gmial.com</a>
 - 😄 Pronouns: Koti
 - ⚡ Fun fact: Love Astronomy, Coding.
-- <h4>🏗️ My Portfolio site : <a href="https://kotisyamala.blogspot.com" target="_blank">Koti's Portfolio website</a> </h4>
+- <h4>🏗️ My Portfolio : <a href="https://kotisyamala.blogspot.com" target="_blank">Koti's Portfolio</a> </h4>
 - <h4>🌐 My Developer Blog : <a href="https://binarycipher.blogspot.com" target="_blank">Binary Cipher</a> </h4>
 - <h4>💙 My Personal Blog: <a href="https://betterlifesailor.blogspot.com" target="_blank">Better Life Sailor</a> </h4>
 
