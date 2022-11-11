@@ -9,7 +9,7 @@
 - 👯 Looking to collaborate on : AWS,React, Smart contracts, ETH Apps.
 - 🤔 Looking for help with : AWS,React, Smart contracts, ETH Apps.
 - 💬 Ask me about : AEM. AC. Java/J2EE
-- 📫 How to reach me: <a href="mailto:kotireddy299@gmial.com">kotireddy299@gmial.com</a>
+- 📫 How to reach me: <a href="mailto:KotiSyamala@outlook.com">KotiSyamala@outlook.com</a>
 - 😄 Pronouns: Koti
 - ⚡ Fun fact: Love Astronomy, Coding.
 - <h4>🏗️ My Portfolio : <a href="https://kotisyamala.dev" target="_blank">Koti's Portfolio</a> </h4>
